@@ -1,0 +1,15 @@
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\obj\Debug\net7.0\PrLab3.csproj.AssemblyReference.cache
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\obj\Debug\net7.0\PrLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\obj\Debug\net7.0\PrLab3.AssemblyInfoInputs.cache
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\obj\Debug\net7.0\PrLab3.AssemblyInfo.cs
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\obj\Debug\net7.0\PrLab3.csproj.CoreCompileInputs.cache
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\bin\Debug\net7.0\PrLab3.exe
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\bin\Debug\net7.0\PrLab3.deps.json
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\bin\Debug\net7.0\PrLab3.runtimeconfig.json
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\bin\Debug\net7.0\PrLab3.dll
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\bin\Debug\net7.0\PrLab3.pdb
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\obj\Debug\net7.0\PrLab3.dll
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\obj\Debug\net7.0\refint\PrLab3.dll
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\obj\Debug\net7.0\PrLab3.pdb
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\obj\Debug\net7.0\PrLab3.genruntimeconfig.cache
+C:\Users\Heavenly_lich\source\repos\PrLab3\PrLab3\obj\Debug\net7.0\ref\PrLab3.dll
